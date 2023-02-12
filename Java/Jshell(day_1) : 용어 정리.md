@@ -16,15 +16,15 @@
 
 ## Excercise 
 1. write an expresstion to calculate number of minutes in a day.
-24*60 = 1440
+- 24*60 = 1440
 
 2. write an expresstion to calculate number of seconds in a day.
-위/아래 화살표키(up/down arrow)로 이전/다음식을 볼수있음
-24*60*60 = 86400
+- 위/아래 화살표키(up/down arrow)로 이전/다음식을 볼수있음
+- 24*60*60 = 86400
 
 ## 오류식 정리
-오류식 : illegal expressions
-illegal start of exprssion : 식에 오류가있다.
+-오류식 : illegal expressions
+- illegal start of exprssion : 식에 오류가있다.
 
 ## 출처 📝
 [Udemy : 완전 초보자를 위한 Java 프로그래밍 : 단기간에 Java 완벽 정복](https://www.udemy.com/course/best-java-programming/)
