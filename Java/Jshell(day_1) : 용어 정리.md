@@ -1,3 +1,6 @@
+```📝 Java를 공부한 내용을 개인적으로 정리하는 공간입니다 📝```
+<br/>
+<br/>
 ## 매개변수 (parameter)
 : 괄호안에 든 것이 무엇이든 매개변수(파라미터)라고 부름
 <br/>
@@ -34,5 +37,5 @@
 - illegal expressions
 > illegal start of exprssion : 식에 오류가있다.
 
-## 출처 📝
+## 📚 출처 
 [Udemy : 완전 초보자를 위한 Java 프로그래밍 : 단기간에 Java 완벽 정복](https://www.udemy.com/course/best-java-programming/)
